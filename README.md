@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeromeVargas
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning javascript and PHP
+- 🌱 I’m currently learning full stack javascript 
 - 💞️ I’m looking to collaborate on simple but effective projects
 - 📫 Reach me at @ajeromevar
 
