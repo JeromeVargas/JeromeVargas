@@ -3,8 +3,10 @@ JeromeVargas/JeromeVargas is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+My name is Jerome, and I'm a International Finance master graduate interested in data science and software development in general!
+
 - 👋 Hi, I’m @JeromeVargas
-- 👀 I’m interested in Data and Software development
+- 👀 I’m interested in Data science and Software development
 - 🌱 I’m currently learning full stack javascript and python
 - 💞️ I’m looking to collaborate on simple but effective projects
 
