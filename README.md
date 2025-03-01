@@ -7,7 +7,7 @@ My name is Jerome, and I'm an International Finance master graduate interested i
 
 - 👋 Hi, I’m @JeromeVargas
 - 👀 I’m interested in Data science and Software development
-- 🌱 I’m recently built an app to study vocabulary in different languages:
+- 🌱 I’m recently built an app to study vocabulary in different languages:  
 Demos:
 [English](https://vocabulary-checker.onrender.com/)
 [French](https://french-vocabulary-checker.netlify.app/)
