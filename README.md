@@ -8,9 +8,10 @@ My name is Jerome, and I'm an International Finance master graduate interested i
 - 👋 Hi, I’m @JeromeVargas
 - 👀 I’m interested in Data science and Software development
 - 🌱 I’m recently built an app to study vocabulary in different languages:
-- <a href="https://vocabulary-checker.onrender.com/" target="_blank" rel="noopener noreferrer">English</a>
-
-  [French](https://french-vocabulary-checker.netlify.app/) [Japanese](https://japanese-vocabulary-checker.netlify.app/)
+- Demos:
+  <a href="https://vocabulary-checker.onrender.com/" target="_blank" rel="noopener noreferrer">English</a>
+<a href="https://french-vocabulary-checker.netlify.app/" target="_blank" rel="noopener noreferrer">French</a>
+<a href="https://japanese-vocabulary-checker.netlify.app/" target="_blank" rel="noopener noreferrer">Japanese</a>  
 - 💞️ I’m looking to collaborate on simple but effective projects
 
 
