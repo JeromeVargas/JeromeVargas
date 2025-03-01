@@ -9,9 +9,10 @@ My name is Jerome, and I'm an International Finance master graduate interested i
 - 👀 I’m interested in Data science and Software development
 - 🌱 I’m recently built an app to study vocabulary in different languages:
 - Demos:
-  <a href="https://vocabulary-checker.onrender.com/" target="_blank" rel="noopener noreferrer">English</a>
-<a href="https://french-vocabulary-checker.netlify.app/" target="_blank" rel="noopener noreferrer">French</a>
-<a href="https://japanese-vocabulary-checker.netlify.app/" target="_blank" rel="noopener noreferrer">Japanese</a>  
+[English](https://vocabulary-checker.onrender.com/)
+[French](https://french-vocabulary-checker.netlify.app/)
+[Japanese](japanese-vocabulary-checker.netlify.app/)
+
 - 💞️ I’m looking to collaborate on simple but effective projects
 
 
