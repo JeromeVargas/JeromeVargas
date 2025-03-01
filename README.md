@@ -11,7 +11,7 @@ My name is Jerome, and I'm an International Finance master graduate interested i
 - Demos:
 [English](https://vocabulary-checker.onrender.com/)
 [French](https://french-vocabulary-checker.netlify.app/)
-[Japanese](japanese-vocabulary-checker.netlify.app/)
+[Japanese](https://japanese-vocabulary-checker.netlify.app/)
 
 - 💞️ I’m looking to collaborate on simple but effective projects
 
